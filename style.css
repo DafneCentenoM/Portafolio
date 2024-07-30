@@ -4,3 +4,20 @@
     justify-content: center;
     align-items: center;*/
 }
+.proyecto{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;/*para que la imagen quepa al tamaño de la carta*/
+}
+
+#proyecto-1{
+    background-image: url('google.png');
+}
+
+#proyecto-2{
+    background-image: url('google.png');
+}
+
+.text-shadow-1 {
+    text-shadow: 1px -1px 8px rgba(0, 0, 0, 1);
+}
