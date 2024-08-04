@@ -3,6 +3,11 @@
    /* display: flex;
     justify-content: center;
     align-items: center;*/
+
+    background-image: url(assets/wallpaper3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;/*para que la imagen quepa al tamaño de la carta*/
 }
 .proyecto{
     background-repeat: no-repeat;
@@ -11,7 +16,7 @@
 }
 
 #proyecto-1{
-    background-image: url('google.png');
+    background-image: url('assets/google.png');
 }
 
 #proyecto-2{
